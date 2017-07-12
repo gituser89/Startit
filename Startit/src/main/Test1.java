@@ -10,8 +10,8 @@ public class Test1 {
 		Scanner in = new Scanner(System.in);
 	    System.out.println("Enter the String & Number :");
 	    String name = in.nextLine();
-	    int numbers = in.nextInt();
-	    System.out.println("Name :"+ name + "Number :" +numbers);
+	    int number = in.nextInt();
+	    System.out.println("Name :"+ name + "Number :" +number);
 	}
 
 }

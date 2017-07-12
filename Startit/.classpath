@@ -22,5 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/IC021674/Desktop/commons-collections-1.1-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
